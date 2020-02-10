@@ -7,6 +7,7 @@
 - Phone: +79372144882
 
   3.**Summary:**
+
   I am a results-oriented junior Front-end developer with huge desire to improve skills. I create small projects to learn new technologies and improve my coding. My career goal is to become a professional in development and create really cool and useful projects. I will be happy to solve complex and large-scale tasks in the company of equally enthusiastic colleagues.
 
   4.**Skills:**
@@ -46,7 +47,9 @@ console.log(guessTheNumber(9));
 - I also train my skills on codewars.com
 
   7.**Education:**
+
   Philologist (Germanic Philology), Volzhsky University after V.N. Tatischev, 2002-2007
 
   8.**English:**
+
   Most resources define my level of English proficiency as B-1. For more than a year, I worked as an operator in the contact center of a Japanese Bank and communicated with Clients in English to help them solve their problems or answer their questions. To improve my English, I watch movies and read articles in English.
